@@ -1,0 +1,32 @@
+# How to Integrate Photon Pun Multiplayer Game Engine For Unity
+
+#### **Introduction**
+
+Photon is a real-time multiplayer game development framework which has server and cloud services. Games are hosted in globally distributed Photon Cloud so we do not need to worry about hosting. All the operations related to multiplayer functionality are handled by Photon. A free version of PUN comes with 20 CCU subscription but you can upgrade it as you need it. If you need step by step explanation of the topic, you can check our article here: [Integrate Photon Pun Multiplayer Game Engine For Unity](https://insights.nimblechapps.com/unity/how-to-integrate-photon-pun-multiplayer-game-engine-for-unity)
+
+#### **Prerequisites:**
+
+ 1. Unity 5 or later.
+ 2. Photon Unity Networking (PUN) package, you can download free package from Asset store.
+
+#### **This tutorial covers following things:**
+1.	Configure game on photon
+2.	Setup photon in Unity project
+3.	Manage connection with photon
+4.	Synchronization of players
+5.	Testing
+
+#### **Now Run your project and check the output. The below given emulator output I got**
+
+[![N|Solid](https://insights.nimblechapps.com/wp-content/uploads/2017/10/PhotonPun-Join-Room-565x329.png)](https://insights.nimblechapps.com/unity/how-to-integrate-photon-pun-multiplayer-game-engine-for-unity)
+
+This tutorial has been presented by Nimblechapps - The coolest [Unity3D Game Development Company](https://www.nimblechapps.com/unity-game-development-company). Checkout our [Game Development Portfolio](https://www.nimblechapps.com/portfolio/game-development).
+
+     Provide us your valuable comment in our blog comment section.
+
+##### **Read other Interesting unity blog:**
+1.	[Implementing Confetti Coming out of an object In Unity](https://insights.nimblechapps.com/unity/implementing-confetti-coming-out-of-an-object-in-unity)
+
+## **License**
+
+Copyright (c) 2017 Nimblechapps
